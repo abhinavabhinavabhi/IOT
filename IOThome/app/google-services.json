@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "345502452373",
+    "firebase_url": "https://iotfirst-20bdc.firebaseio.com",
+    "project_id": "iotfirst-20bdc",
+    "storage_bucket": "iotfirst-20bdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345502452373:android:337d3722f0b9d13776a99c",
+        "android_client_info": {
+          "package_name": "com.example.iothome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345502452373-fv3s5vfmllqjk4bldts4gumlu6snum9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iothome",
+            "certificate_hash": "766d4e6e49b2c72dba82eba2fe84db6565930da2"
+          }
+        },
+        {
+          "client_id": "345502452373-k30ppa8u2kk664hmp43a2lfeogff8euf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-zozQOjHxV5KY7EmRGhUVBOrhMxs_ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345502452373-k30ppa8u2kk664hmp43a2lfeogff8euf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
